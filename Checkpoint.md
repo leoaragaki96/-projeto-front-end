@@ -1,0 +1,2 @@
+* O que é o git ?
+O Git é um programa de versionamento de arquivos , projetos e documentos. Ele é responsavel por criar cópias em diretorios sendo eles local ou remoto (GITHUB), tambem permite que diversas pessoas trabalhem em branches paralelas e unam seus trabalhos ao final. O git é uma ferramenta usada muito por desenvolvedores porque é a forma mais segura de não perder nenhuma versão do seu programa, fazendo com que o desenvolvedor possa manipular sem medo de apagar as versões de colegas ou a versão pricipal.
